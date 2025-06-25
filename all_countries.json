@@ -1,0 +1,1972 @@
+[
+{
+"iso2": "AF",
+"iso3": "AFG",
+"name": "Afganistan",
+"capital": "Kabul",
+"population": { "value": 40218234, "year": 2023, "source": "World Bank" },
+"area": { "total": 652230, "land": 652230 },
+"flag": "https://www.fotw.info/images/a/af_21.gif",
+"map": "https://www.google.com/maps/place/Afganistan"
+},
+{
+"iso2": "AX",
+"iso3": "ALA",
+"name": "<i>Wyspy Alandzkie</i>",
+"capital": "Mariehamn",
+"population": { "value": 30541, "year": 2023, "source": "Asub est" },
+"area": { "total": 1580, "land": 1580 },
+"flag": "https://www.fotw.info/images/a/ax.gif",
+"map": "https://www.google.com/maps/place/Wyspy Alandzkie"
+},
+{
+"iso2": "AL",
+"iso3": "ALB",
+"name": "Albania",
+"capital": "Tirana",
+"population": { "value": 2877797, "year": 2023, "source": "World Bank" },
+"area": { "total": 28748, "land": 27400 },
+"flag": "https://www.fotw.info/images/a/al.gif",
+"map": "https://www.google.com/maps/place/Albania"
+},
+{
+"iso2": "DZ",
+"iso3": "DZA",
+"name": "Algieria",
+"capital": "Algier",
+"population": { "value": 45233000, "year": 2023, "source": "World Bank" },
+"area": { "total": 2381741, "land": 2381741 },
+"flag": "https://www.fotw.info/images/d/dz.gif",
+"map": "https://www.google.com/maps/place/Algieria"
+},
+{
+"iso2": "AS",
+"iso3": "ASM",
+"name": "<i>Samoa Amerykańskie</i>",
+"capital": "Pago Pago",
+"population": { "value": 44620, "year": 2023, "source": "Factbook" },
+"area": { "total": 77, "land": 77 },
+"flag": "https://www.fotw.info/images/a/as.gif",
+"map": "https://www.google.com/maps/place/Samoa Amerykańskie"
+},
+{
+"iso2": "AD",
+"iso3": "AND",
+"name": "Andora",
+"capital": "Andora la Vella",
+"population": { "value": 77265, "year": 2023, "source": "World Bank" },
+"area": { "total": 468, "land": 468 },
+"flag": "https://www.fotw.info/images/a/ad.gif",
+"map": "https://www.google.com/maps/place/Andora"
+},
+{
+"iso2": "AO",
+"iso3": "AGO",
+"name": "Angola",
+"capital": "Luanda",
+"population": { "value": 35568000, "year": 2023, "source": "World Bank" },
+"area": { "total": 1246700, "land": 1246700 },
+"flag": "https://www.fotw.info/images/a/ao.gif",
+"map": "https://www.google.com/maps/place/Angola"
+},
+{
+"iso2": "AI",
+"iso3": "AIA",
+"name": "<i>Anguilla</i>",
+"capital": "The Valley",
+"population": { "value": 19416, "year": 2024, "source": "Factbook est" },
+"area": { "total": 91, "land": 91 },
+"flag": "https://www.fotw.info/images/a/ai.gif",
+"map": "https://www.google.com/maps/place/Anguilla"
+},
+{
+"iso2": "AQ",
+"iso3": "ATA",
+"name": "<i>Antarktyda</i>",
+"capital": "",
+"population": { "value": 3200, "year": 2022, "source": "Factbook est" },
+"area": { "total": 14200000, "land": 14200000 },
+"flag": "https://www.fotw.info/images/a/aq.gif",
+"map": "https://www.google.com/maps/place/Antarktyda"
+},
+{
+"iso2": "AG",
+"iso3": "ATG",
+"name": "Antigua i Barbuda",
+"capital": "St. John's",
+"population": { "value": 97929, "year": 2023, "source": "World Bank" },
+"area": { "total": 442, "land": 442 },
+"flag": "https://www.fotw.info/images/a/ag.gif",
+"map": "https://www.google.com/maps/place/Antigua+and+Barbuda"
+},
+{
+"iso2": "AR",
+"iso3": "ARG",
+"name": "Argentyna",
+"capital": "Buenos Aires",
+"population": { "value": 45690000, "year": 2023, "source": "World Bank" },
+"area": { "total": 2780400, "land": 2736690 },
+"flag": "https://www.fotw.info/images/a/ar.gif",
+"map": "https://www.google.com/maps/place/Argentyna"
+},
+{
+"iso2": "AM",
+"iso3": "ARM",
+"name": "Armenia",
+"capital": "Erywań",
+"population": { "value": 2963243, "year": 2023, "source": "World Bank" },
+"area": { "total": 29743, "land": 28454 },
+"flag": "https://www.fotw.info/images/a/am.gif",
+"map": "https://www.google.com/maps/place/Armenia"
+},
+{
+"iso2": "AW",
+"iso3": "ABW",
+"name": "<i>Aruba</i>",
+"capital": "Oranjestad",
+"population": { "value": 125063, "year": 2024, "source": "Factbook est" },
+"area": { "total": 180, "land": 180 },
+"flag": "https://www.fotw.info/images/a/aw.gif",
+"map": "https://www.google.com/maps/place/Aruba"
+},
+{
+"iso2": "AU",
+"iso3": "AUS",
+"name": "Australia",
+"capital": "Canberra",
+"population": { "value": 25970000, "year": 2023, "source": "World Bank" },
+"area": { "total": 7692024, "land": 7692024 },
+"flag": "https://www.fotw.info/images/a/au.gif",
+"map": "https://www.google.com/maps/place/Australia"
+},
+{
+"iso2": "AT",
+"iso3": "AUT",
+"name": "Austria",
+"capital": "Wiedeń",
+"population": { "value": 8902600, "year": 2023, "source": "World Bank" },
+"area": { "total": 83871, "land": 83858 },
+"flag": "https://www.fotw.info/images/a/at.gif",
+"map": "https://www.google.com/maps/place/Austria"
+},
+{
+"iso2": "AZ",
+"iso3": "AZE",
+"name": "Azerbejdżan",
+"capital": "Baku",
+"population": { "value": 10139000, "year": 2023, "source": "World Bank" },
+"area": { "total": 86600, "land": 82560 },
+"flag": "https://www.fotw.info/images/a/az.gif",
+"map": "https://www.google.com/maps/place/Azerbejdżan"
+},
+{
+"iso2": "BS",
+"iso3": "BHS",
+"name": "Bahamy",
+"capital": "Nassau",
+"population": { "value": 396910, "year": 2023, "source": "World Bank" },
+"area": { "total": 13943, "land": 13943 },
+"flag": "https://www.fotw.info/images/b/bs.gif",
+"map": "https://www.google.com/maps/place/Bahamy"
+},
+{
+"iso2": "BH",
+"iso3": "BHR",
+"name": "Bahrajn",
+"capital": "Manama",
+"population": { "value": 1701583, "year": 2023, "source": "World Bank" },
+"area": { "total": 765, "land": 765 },
+"flag": "https://www.fotw.info/images/b/bh.gif",
+"map": "https://www.google.com/maps/place/Bahrajn"
+},
+{
+"iso2": "BD",
+"iso3": "BGD",
+"name": "Bangladesz",
+"capital": "Dhaka",
+"population": { "value": 171186372, "year": 2023, "source": "World Bank" },
+"area": { "total": 147570, "land": 130170 },
+"flag": "https://www.fotw.info/images/b/bd.gif",
+"map": "https://www.google.com/maps/place/Bangladesz"
+},
+{
+"iso2": "BB",
+"iso3": "BRB",
+"name": "Barbados",
+"capital": "Bridgetown",
+"population": { "value": 287025, "year": 2023, "source": "World Bank" },
+"area": { "total": 430, "land": 430 },
+"flag": "https://www.fotw.info/images/b/bb.gif",
+"map": "https://www.google.com/maps/place/Barbados"
+},
+{
+"iso2": "BY",
+"iso3": "BLR",
+"name": "Białoruś",
+"capital": "Mińsk",
+"population": { "value": 9398861, "year": 2023, "source": "World Bank" },
+"area": { "total": 207600, "land": 207600 },
+"flag": "https://www.fotw.info/images/b/by.gif",
+"map": "https://www.google.com/maps/place/Białoruś"
+},
+{
+"iso2": "BE",
+"iso3": "BEL",
+"name": "Belgia",
+"capital": "Bruksela",
+"population": { "value": 11524454, "year": 2023, "source": "World Bank" },
+"area": { "total": 30528, "land": 30269 },
+"flag": "https://flagcdn.com/w80/be.png",
+"map": "https://www.google.com/maps/place/Belgia"
+},
+{
+"iso2": "BZ",
+"iso3": "BLZ",
+"name": "Belize",
+"capital": "Belmopan",
+"population": { "value": 423524, "year": 2023, "source": "World Bank" },
+"area": { "total": 22966, "land": 22100 },
+"flag": "https://flagcdn.com/w80/bz.png",
+"map": "https://www.google.com/maps/place/Belize"
+},
+{
+"iso2": "BJ",
+"iso3": "BEN",
+"name": "Benin",
+"capital": "Porto-Novo",
+"population": { "value": 13392400, "year": 2023, "source": "World Bank" },
+"area": { "total": 112622, "land": 112622 },
+"flag": "https://flagcdn.com/w80/bj.png",
+"map": "https://www.google.com/maps/place/Benin"
+},
+{
+"iso2": "BT",
+"iso3": "BTN",
+"name": "Bhutan",
+"capital": "Thimphu",
+"population": { "value": 771608, "year": 2023, "source": "World Bank" },
+"area": { "total": 38394, "land": 38394 },
+"flag": "https://flagcdn.com/w80/bt.png",
+"map": "https://www.google.com/maps/place/Bhutan"
+},
+{
+"iso2": "BO",
+"iso3": "BOL",
+"name": "Boliwia",
+"capital": "Sucre",
+"population": { "value": 11673029, "year": 2023, "source": "World Bank" },
+"area": { "total": 1098581, "land": 1083300 },
+"flag": "https://flagcdn.com/w80/bo.png",
+"map": "https://www.google.com/maps/place/Boliwia"
+},
+{
+"iso2": "BA",
+"iso3": "BIH",
+"name": "Bośnia i Hercegowina",
+"capital": "Sarajewo",
+"population": { "value": 3280819, "year": 2023, "source": "World Bank" },
+"area": { "total": 51209, "land": 51197 },
+"flag": "https://flagcdn.com/w80/ba.png",
+"map": "https://www.google.com/maps/place/Bośnia+i+Hercegowina"
+},
+{
+"iso2": "BW",
+"iso3": "BWA",
+"name": "Botswana",
+"capital": "Gaborone",
+"population": { "value": 2396000, "year": 2023, "source": "World Bank" },
+"area": { "total": 581730, "land": 581730 },
+"flag": "https://flagcdn.com/w80/bw.png",
+"map": "https://www.google.com/maps/place/Botswana"
+},
+{
+"iso2": "BR",
+"iso3": "BRA",
+"name": "Brazylia",
+"capital": "Brasília",
+"population": { "value": 214300000, "year": 2023, "source": "World Bank" },
+"area": { "total": 8515767, "land": 8358140 },
+"flag": "https://flagcdn.com/w80/br.png",
+"map": "https://www.google.com/maps/place/Brazylia"
+},
+{
+"iso2": "BN",
+"iso3": "BRN",
+"name": "Brunei",
+"capital": "Bandar Seri Begawan",
+"population": { "value": 453000, "year": 2023, "source": "World Bank" },
+"area": { "total": 5765, "land": 5765 },
+"flag": "https://flagcdn.com/w80/bn.png",
+"map": "https://www.google.com/maps/place/Brunei"
+},
+{
+"iso2": "BG",
+"iso3": "BGR",
+"name": "Bułgaria",
+"capital": "Sofia",
+"population": { "value": 6900000, "year": 2023, "source": "World Bank" },
+"area": { "total": 110993, "land": 110993 },
+"flag": "https://flagcdn.com/w80/bg.png",
+"map": "https://www.google.com/maps/place/Bułgaria"
+},
+{
+"iso2": "BF",
+"iso3": "BFA",
+"name": "Burkina Faso",
+"capital": "Wagadugu",
+"population": { "value": 22700000, "year": 2023, "source": "World Bank" },
+"area": { "total": 272967, "land": 272967 },
+"flag": "https://flagcdn.com/w80/bf.png",
+"map": "https://www.google.com/maps/place/Burkina+Faso"
+},
+{
+"iso2": "BI",
+"iso3": "BDI",
+"name": "Burundi",
+"capital": "Gitega",
+"population": { "value": 12310000, "year": 2023, "source": "World Bank" },
+"area": { "total": 27834, "land": 27834 },
+"flag": "https://flagcdn.com/w80/bi.png",
+"map": "https://www.google.com/maps/place/Burundi"
+},
+{
+"iso2": "KH",
+"iso3": "KHM",
+"name": "Kambodża",
+"capital": "Phnom Penh",
+"population": { "value": 17000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 181035, "land": 176520 },
+"flag": "https://flagcdn.com/w80/kh.png",
+"map": "https://www.google.com/maps/place/Kambodża"
+},
+{
+"iso2": "CM",
+"iso3": "CMR",
+"name": "Kamerun",
+"capital": "Jaunde",
+"population": { "value": 28000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 475442, "land": 475442 },
+"flag": "https://flagcdn.com/w80/cm.png",
+"map": "https://www.google.com/maps/place/Kamerun"
+},
+{
+"iso2": "CA",
+"iso3": "CAN",
+"name": "Kanada",
+"capital": "Ottawa",
+"population": { "value": 38900000, "year": 2023, "source": "World Bank" },
+"area": { "total": 9984670, "land": 9093510 },
+"flag": "https://flagcdn.com/w80/ca.png",
+"map": "https://www.google.com/maps/place/Kanada"
+},
+{
+"iso2": "CV",
+"iso3": "CPV",
+"name": "Republika Zielonego Przylądka",
+"capital": "Praia",
+"population": { "value": 555987, "year": 2023, "source": "World Bank" },
+"area": { "total": 4033, "land": 4033 },
+"flag": "https://flagcdn.com/w80/cv.png",
+"map": "https://www.google.com/maps/place/Republika+Zielonego+Przylądka"
+},
+{
+"iso2": "CF",
+"iso3": "CAF",
+"name": "Republika Środkowoafrykańska",
+"capital": "Bangui",
+"population": { "value": 4820000, "year": 2023, "source": "World Bank" },
+"area": { "total": 622984, "land": 622984 },
+"flag": "https://flagcdn.com/w80/cf.png",
+"map": "https://www.google.com/maps/place/Republika+Środkowoafrykańska"
+},
+{
+"iso2": "TD",
+"iso3": "TCD",
+"name": "Czad",
+"capital": "Ndżamena",
+"population": { "value": 17900000, "year": 2023, "source": "World Bank" },
+"area": { "total": 1284000, "land": 1284000 },
+"flag": "https://flagcdn.com/w80/td.png",
+"map": "https://www.google.com/maps/place/Czad"
+},
+{
+"iso2": "CL",
+"iso3": "CHL",
+"name": "Chile",
+"capital": "Santiago",
+"population": { "value": 19520000, "year": 2023, "source": "World Bank" },
+"area": { "total": 756102, "land": 743812 },
+"flag": "https://flagcdn.com/w80/cl.png",
+"map": "https://www.google.com/maps/place/Chile"
+},
+{
+"iso2": "CN",
+"iso3": "CHN",
+"name": "Chiny",
+"capital": "Pekin",
+"population": { "value": 1420000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 9596961, "land": 9388211 },
+"flag": "https://flagcdn.com/w80/cn.png",
+"map": "https://www.google.com/maps/place/Chiny"
+},
+{
+"iso2": "CO",
+"iso3": "COL",
+"name": "Kolumbia",
+"capital": "Bogota",
+"population": { "value": 51800000, "year": 2023, "source": "World Bank" },
+"area": { "total": 1141748, "land": 1109500 },
+"flag": "https://flagcdn.com/w80/co.png",
+"map": "https://www.google.com/maps/place/Kolumbia"
+},
+{
+"iso2": "KM",
+"iso3": "COM",
+"name": "Komory",
+"capital": "Moroni",
+"population": { "value": 869601, "year": 2023, "source": "World Bank" },
+"area": { "total": 2235, "land": 1862 },
+"flag": "https://flagcdn.com/w80/km.png",
+"map": "https://www.google.com/maps/place/Komory"
+},
+{
+"iso2": "CG",
+"iso3": "COG",
+"name": "Kongo",
+"capital": "Brazzaville",
+"population": { "value": 5700000, "year": 2023, "source": "World Bank" },
+"area": { "total": 342000, "land": 341500 },
+"flag": "https://flagcdn.com/w80/cg.png",
+"map": "https://www.google.com/maps/place/Kongo"
+},
+{
+"iso2": "CD",
+"iso3": "COD",
+"name": "Demokratyczna Republika Konga",
+"capital": "Kinszasa",
+"population": { "value": 95300000, "year": 2023, "source": "World Bank" },
+"area": { "total": 2344858, "land": 2267050 },
+"flag": "https://flagcdn.com/w80/cd.png",
+"map": "https://www.google.com/maps/place/Demokratyczna+Republika+Konga"
+},
+{
+"iso2": "CU",
+"iso3": "CUB",
+"name": "Kuba",
+"capital": "Hawana",
+"population": { "value": 11326616, "year": 2023, "source": "World Bank" },
+"area": { "total": 109884, "land": 105806 },
+"flag": "https://flagcdn.com/w80/cu.png",
+"map": "https://www.google.com/maps/place/Kuba"
+},
+{
+"iso2": "CY",
+"iso3": "CYP",
+"name": "Cypr",
+"capital": "Nikozja",
+"population": { "value": 1207359, "year": 2023, "source": "World Bank" },
+"area": { "total": 9251, "land": 9251 },
+"flag": "https://flagcdn.com/w80/cy.png",
+"map": "https://www.google.com/maps/place/Cypr"
+},
+{
+"iso2": "CZ",
+"iso3": "CZE",
+"name": "Czechy",
+"capital": "Praga",
+"population": { "value": 10650000, "year": 2023, "source": "World Bank" },
+"area": { "total": 78866, "land": 77865 },
+"flag": "https://flagcdn.com/w80/cz.png",
+"map": "https://www.google.com/maps/place/Czechy"
+},
+{
+"iso2": "DK",
+"iso3": "DNK",
+"name": "Dania",
+"capital": "Kopenhaga",
+"population": { "value": 5878000, "year": 2023, "source": "World Bank" },
+"area": { "total": 43094, "land": 42931 },
+"flag": "https://flagcdn.com/w80/dk.png",
+"map": "https://www.google.com/maps/place/Dania"
+},
+{
+"iso2": "DJ",
+"iso3": "DJI",
+"name": "Dżibuti",
+"capital": "Dżibuti",
+"population": { "value": 1040000, "year": 2023, "source": "World Bank" },
+"area": { "total": 23200, "land": 23200 },
+"flag": "https://flagcdn.com/w80/dj.png",
+"map": "https://www.google.com/maps/place/Dżibuti"
+},
+{
+"iso2": "DM",
+"iso3": "DMA",
+"name": "Dominika",
+"capital": "Roseau",
+"population": { "value": 72813, "year": 2023, "source": "World Bank" },
+"area": { "total": 751, "land": 751 },
+"flag": "https://flagcdn.com/w80/dm.png",
+"map": "https://www.google.com/maps/place/Dominika"
+},
+{
+"iso2": "DO",
+"iso3": "DOM",
+"name": "Dominikana",
+"capital": "Santo Domingo",
+"population": { "value": 10948000, "year": 2023, "source": "World Bank" },
+"area": { "total": 48671, "land": 48671 },
+"flag": "https://flagcdn.com/w80/do.png",
+"map": "https://www.google.com/maps/place/Dominikana"
+},
+{
+"iso2": "EC",
+"iso3": "ECU",
+"name": "Ekwador",
+"capital": "Quito",
+"population": { "value": 17643000, "year": 2023, "source": "World Bank" },
+"area": { "total": 283561, "land": 276841 },
+"flag": "https://flagcdn.com/w80/ec.png",
+"map": "https://www.google.com/maps/place/Ekwador"
+},
+{
+"iso2": "EG",
+"iso3": "EGY",
+"name": "Egipt",
+"capital": "Kair",
+"population": { "value": 110000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 1002450, "land": 995450 },
+"flag": "https://flagcdn.com/w80/eg.png",
+"map": "https://www.google.com/maps/place/Egipt"
+},
+{
+"iso2": "SV",
+"iso3": "SLV",
+"name": "Salwador",
+"capital": "San Salvador",
+"population": { "value": 6486200, "year": 2023, "source": "World Bank" },
+"area": { "total": 21041, "land": 20700 },
+"flag": "https://flagcdn.com/w80/sv.png",
+"map": "https://www.google.com/maps/place/Salwador"
+},
+{
+"iso2": "ER",
+"iso3": "ERI",
+"name": "Erytrea",
+"capital": "Asmara",
+"population": { "value": 3546064, "year": 2023, "source": "World Bank" },
+"area": { "total": 117600, "land": 117600 },
+"flag": "https://flagcdn.com/w80/er.png",
+"map": "https://www.google.com/maps/place/Erytrea"
+},
+{
+"iso2": "EE",
+"iso3": "EST",
+"name": "Estonia",
+"capital": "Tallinn",
+"population": { "value": 1330000, "year": 2023, "source": "World Bank" },
+"area": { "total": 45228, "land": 42389 },
+"flag": "https://flagcdn.com/w80/ee.png",
+"map": "https://www.google.com/maps/place/Estonia"
+},
+{
+"iso2": "SZ",
+"iso3": "SWZ",
+"name": "Eswatini",
+"capital": "Mbabane",
+"population": { "value": 1200000, "year": 2023, "source": "World Bank" },
+"area": { "total": 17364, "land": 17364 },
+"flag": "https://flagcdn.com/w80/sz.png",
+"map": "https://www.google.com/maps/place/Eswatini"
+},
+{
+"iso2": "ET",
+"iso3": "ETH",
+"name": "Etiopia",
+"capital": "Addis Abeba",
+"population": { "value": 126000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 1104300, "land": 1104300 },
+"flag": "https://flagcdn.com/w80/et.png",
+"map": "https://www.google.com/maps/place/Etiopia"
+},
+{
+"iso2": "FJ",
+"iso3": "FJI",
+"name": "Fidżi",
+"capital": "Suva",
+"population": { "value": 900000, "year": 2023, "source": "World Bank" },
+"area": { "total": 18274, "land": 18274 },
+"flag": "https://flagcdn.com/w80/fj.png",
+"map": "https://www.google.com/maps/place/Fidżi"
+},
+{
+"iso2": "FI",
+"iso3": "FIN",
+"name": "Finlandia",
+"capital": "Helsinki",
+"population": { "value": 5540000, "year": 2023, "source": "World Bank" },
+"area": { "total": 338424, "land": 303815 },
+"flag": "https://flagcdn.com/w80/fi.png",
+"map": "https://www.google.com/maps/place/Finlandia"
+},
+{
+"iso2": "FR",
+"iso3": "FRA",
+"name": "Francja",
+"capital": "Paryż",
+"population": { "value": 67400000, "year": 2023, "source": "World Bank" },
+"area": { "total": 643801, "land": 547030 },
+"flag": "https://flagcdn.com/w80/fr.png",
+"map": "https://www.google.com/maps/place/Francja"
+},
+{
+"iso2": "GA",
+"iso3": "GAB",
+"name": "Gabon",
+"capital": "Libreville",
+"population": { "value": 2200000, "year": 2023, "source": "World Bank" },
+"area": { "total": 267668, "land": 257667 },
+"flag": "https://flagcdn.com/w80/ga.png",
+"map": "https://www.google.com/maps/place/Gabon"
+},
+{
+"iso2": "GM",
+"iso3": "GMB",
+"name": "Gambia",
+"capital": "Bandżul",
+"population": { "value": 2416668, "year": 2023, "source": "World Bank" },
+"area": { "total": 11295, "land": 11295 },
+"flag": "https://flagcdn.com/w80/gm.png",
+"map": "https://www.google.com/maps/place/Gambia"
+},
+{
+"iso2": "GE",
+"iso3": "GEO",
+"name": "Gruzja",
+"capital": "Tbilisi",
+"population": { "value": 3725000, "year": 2023, "source": "World Bank" },
+"area": { "total": 69700, "land": 69700 },
+"flag": "https://flagcdn.com/w80/ge.png",
+"map": "https://www.google.com/maps/place/Gruzja"
+},
+{
+"iso2": "DE",
+"iso3": "DEU",
+"name": "Niemcy",
+"capital": "Berlin",
+"population": { "value": 83166711, "year": 2023, "source": "World Bank" },
+"area": { "total": 357582, "land": 348672 },
+"flag": "https://flagcdn.com/w80/de.png",
+"map": "https://www.google.com/maps/place/Niemcy"
+},
+{
+"iso2": "GH",
+"iso3": "GHA",
+"name": "Ghana",
+"capital": "Akra",
+"population": { "value": 33300000, "year": 2023, "source": "World Bank" },
+"area": { "total": 238533, "land": 238533 },
+"flag": "https://flagcdn.com/w80/gh.png",
+"map": "https://www.google.com/maps/place/Ghana"
+},
+{
+"iso2": "GR",
+"iso3": "GRC",
+"name": "Grecja",
+"capital": "Ateny",
+"population": { "value": 10423000, "year": 2023, "source": "World Bank" },
+"area": { "total": 131957, "land": 130647 },
+"flag": "https://flagcdn.com/w80/gr.png",
+"map": "https://www.google.com/maps/place/Grecja"
+},
+{
+"iso2": "GD",
+"iso3": "GRD",
+"name": "Grenada",
+"capital": "St. George’s",
+"population": { "value": 113000, "year": 2023, "source": "World Bank" },
+"area": { "total": 344, "land": 344 },
+"flag": "https://flagcdn.com/w80/gd.png",
+"map": "https://www.google.com/maps/place/Grenada"
+},
+{
+"iso2": "GT",
+"iso3": "GTM",
+"name": "Gwatemala",
+"capital": "Gwatemala",
+"population": { "value": 18600000, "year": 2023, "source": "World Bank" },
+"area": { "total": 108889, "land": 108889 },
+"flag": "https://flagcdn.com/w80/gt.png",
+"map": "https://www.google.com/maps/place/Gwatemala"
+},
+{
+"iso2": "GN",
+"iso3": "GIN",
+"name": "Gwinea",
+"capital": "Konakry",
+"population": { "value": 13900000, "year": 2023, "source": "World Bank" },
+"area": { "total": 245857, "land": 245857 },
+"flag": "https://flagcdn.com/w80/gn.png",
+"map": "https://www.google.com/maps/place/Gwinea"
+},
+{
+"iso2": "GW",
+"iso3": "GNB",
+"name": "Gwinea Bissau",
+"capital": "Bissau",
+"population": { "value": 2000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 36125, "land": 36125 },
+"flag": "https://flagcdn.com/w80/gw.png",
+"map": "https://www.google.com/maps/place/Gwinea+Bissau"
+},
+{
+"iso2": "GY",
+"iso3": "GUY",
+"name": "Gujana",
+"capital": "Georgetown",
+"population": { "value": 790000, "year": 2023, "source": "World Bank" },
+"area": { "total": 214970, "land": 196850 },
+"flag": "https://flagcdn.com/w80/gy.png",
+"map": "https://www.google.com/maps/place/Gujana"
+},
+{
+"iso2": "HT",
+"iso3": "HTI",
+"name": "Haiti",
+"capital": "Port-au-Prince",
+"population": { "value": 11400000, "year": 2023, "source": "World Bank" },
+"area": { "total": 27750, "land": 27750 },
+"flag": "https://flagcdn.com/w80/ht.png",
+"map": "https://www.google.com/maps/place/Haiti"
+},
+{
+"iso2": "HN",
+"iso3": "HND",
+"name": "Honduras",
+"capital": "Tegucigalpa",
+"population": { "value": 10100000, "year": 2023, "source": "World Bank" },
+"area": { "total": 112492, "land": 111890 },
+"flag": "https://flagcdn.com/w80/hn.png",
+"map": "https://www.google.com/maps/place/Honduras"
+},
+{
+"iso2": "HR",
+"iso3": "HRV",
+"name": "Chorwacja",
+"capital": "Zagrzeb",
+"population": { "value": 3900000, "year": 2023, "source": "World Bank" },
+"area": { "total": 56594, "land": 56594 },
+"flag": "https://flagcdn.com/w80/hr.png",
+"map": "https://www.google.com/maps/place/Chorwacja"
+},
+{
+"iso2": "HU",
+"iso3": "HUN",
+"name": "Węgry",
+"capital": "Budapeszt",
+"population": { "value": 9700000, "year": 2023, "source": "World Bank" },
+"area": { "total": 93028, "land": 90532 },
+"flag": "https://flagcdn.com/w80/hu.png",
+"map": "https://www.google.com/maps/place/Węgry"
+},
+{
+"iso2": "IS",
+"iso3": "ISL",
+"name": "Islandia",
+"capital": "Reykjavík",
+"population": { "value": 370000, "year": 2023, "source": "World Bank" },
+"area": { "total": 103000, "land": 100250 },
+"flag": "https://flagcdn.com/w80/is.png",
+"map": "https://www.google.com/maps/place/Islandia"
+},
+{
+"iso2": "IN",
+"iso3": "IND",
+"name": "Indie",
+"capital": "Nowe Delhi",
+"population": { "value": 1410000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 3287263, "land": 2973190 },
+"flag": "https://flagcdn.com/w80/in.png",
+"map": "https://www.google.com/maps/place/Indie"
+},
+{
+"iso2": "ID",
+"iso3": "IDN",
+"name": "Indonezja",
+"capital": "Dżakarta",
+"population": { "value": 280000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 1904569, "land": 1811570 },
+"flag": "https://flagcdn.com/w80/id.png",
+"map": "https://www.google.com/maps/place/Indonezja"
+},
+{
+"iso2": "IR",
+"iso3": "IRN",
+"name": "Iran",
+"capital": "Teheran",
+"population": { "value": 86000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 1648195, "land": 1648195 },
+"flag": "https://flagcdn.com/w80/ir.png",
+"map": "https://www.google.com/maps/place/Iran"
+},
+{
+"iso2": "IQ",
+"iso3": "IRQ",
+"name": "Irak",
+"capital": "Bagdad",
+"population": { "value": 43800000, "year": 2023, "source": "World Bank" },
+"area": { "total": 438317, "land": 438317 },
+"flag": "https://flagcdn.com/w80/iq.png",
+"map": "https://www.google.com/maps/place/Irak"
+},
+{
+"iso2": "IE",
+"iso3": "IRL",
+"name": "Irlandia",
+"capital": "Dublin",
+"population": { "value": 5050000, "year": 2023, "source": "World Bank" },
+"area": { "total": 70273, "land": 68870 },
+"flag": "https://flagcdn.com/w80/ie.png",
+"map": "https://www.google.com/maps/place/Irlandia"
+},
+{
+"iso2": "IL",
+"iso3": "ISR",
+"name": "Izrael",
+"capital": "Jerozolima",
+"population": { "value": 9500000, "year": 2023, "source": "World Bank" },
+"area": { "total": 22072, "land": 20887 },
+"flag": "https://flagcdn.com/w80/il.png",
+"map": "https://www.google.com/maps/place/Izrael"
+},
+{
+"iso2": "IT",
+"iso3": "ITA",
+"name": "Włochy",
+"capital": "Rzym",
+"population": { "value": 59000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 301340, "land": 294140 },
+"flag": "https://flagcdn.com/w80/it.png",
+"map": "https://www.google.com/maps/place/Włochy"
+},
+{
+"iso2": "JM",
+"iso3": "JAM",
+"name": "Jamajka",
+"capital": "Kingston",
+"population": { "value": 2970000, "year": 2023, "source": "World Bank" },
+"area": { "total": 10991, "land": 10991 },
+"flag": "https://flagcdn.com/w80/jm.png",
+"map": "https://www.google.com/maps/place/Jamajka"
+},
+{
+"iso2": "JP",
+"iso3": "JPN",
+"name": "Japonia",
+"capital": "Tokio",
+"population": { "value": 125800000, "year": 2023, "source": "World Bank" },
+"area": { "total": 377975, "land": 364555 },
+"flag": "https://flagcdn.com/w80/jp.png",
+"map": "https://www.google.com/maps/place/Japonia"
+},
+{
+"iso2": "JO",
+"iso3": "JOR",
+"name": "Jordania",
+"capital": "Amman",
+"population": { "value": 10300000, "year": 2023, "source": "World Bank" },
+"area": { "total": 89342, "land": 89342 },
+"flag": "https://flagcdn.com/w80/jo.png",
+"map": "https://www.google.com/maps/place/Jordania"
+},
+{
+"iso2": "KZ",
+"iso3": "KAZ",
+"name": "Kazachstan",
+"capital": "Nur-Sułtan",
+"population": { "value": 19000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 2724900, "land": 2700000 },
+"flag": "https://flagcdn.com/w80/kz.png",
+"map": "https://www.google.com/maps/place/Kazachstan"
+},
+{
+"iso2": "KE",
+"iso3": "KEN",
+"name": "Kenia",
+"capital": "Nairobi",
+"population": { "value": 55500000, "year": 2023, "source": "World Bank" },
+"area": { "total": 580367, "land": 569140 },
+"flag": "https://flagcdn.com/w80/ke.png",
+"map": "https://www.google.com/maps/place/Kenia"
+},
+{
+"iso2": "KI",
+"iso3": "KIR",
+"name": "Kiribati",
+"capital": "Tarawa",
+"population": { "value": 120000, "year": 2023, "source": "World Bank" },
+"area": { "total": 811, "land": 811 },
+"flag": "https://flagcdn.com/w80/ki.png",
+"map": "https://www.google.com/maps/place/Kiribati"
+},
+{
+"iso2": "KP",
+"iso3": "PRK",
+"name": "Korea Północna",
+"capital": "Pjongjang",
+"population": { "value": 25700000, "year": 2023, "source": "World Bank" },
+"area": { "total": 120538, "land": 120538 },
+"flag": "https://flagcdn.com/w80/kp.png",
+"map": "https://www.google.com/maps/place/Korea+Północna"
+},
+{
+"iso2": "KR",
+"iso3": "KOR",
+"name": "Korea Południowa",
+"capital": "Seul",
+"population": { "value": 51600000, "year": 2023, "source": "World Bank" },
+"area": { "total": 100210, "land": 98480 },
+"flag": "https://flagcdn.com/w80/kr.png",
+"map": "https://www.google.com/maps/place/Korea+Południowa"
+},
+{
+"iso2": "KW",
+"iso3": "KWT",
+"name": "Kuwejt",
+"capital": "Kuwejt",
+"population": { "value": 4300000, "year": 2023, "source": "World Bank" },
+"area": { "total": 17818, "land": 17818 },
+"flag": "https://flagcdn.com/w80/kw.png",
+"map": "https://www.google.com/maps/place/Kuwejt"
+},
+{
+"iso2": "KG",
+"iso3": "KGZ",
+"name": "Kirgistan",
+"capital": "Biszkek",
+"population": { "value": 6800000, "year": 2023, "source": "World Bank" },
+"area": { "total": 199951, "land": 199951 },
+"flag": "https://flagcdn.com/w80/kg.png",
+"map": "https://www.google.com/maps/place/Kirgistan"
+},
+{
+"iso2": "LA",
+"iso3": "LAO",
+"name": "Laos",
+"capital": "Wientian",
+"population": { "value": 7300000, "year": 2023, "source": "World Bank" },
+"area": { "total": 237955, "land": 230800 },
+"flag": "https://flagcdn.com/w80/la.png",
+"map": "https://www.google.com/maps/place/Laos"
+},
+{
+"iso2": "LV",
+"iso3": "LVA",
+"name": "Łotwa",
+"capital": "Ryga",
+"population": { "value": 1900000, "year": 2023, "source": "World Bank" },
+"area": { "total": 64589, "land": 62258 },
+"flag": "https://flagcdn.com/w80/lv.png",
+"map": "https://www.google.com/maps/place/Łotwa"
+},
+{
+"iso2": "LB",
+"iso3": "LBN",
+"name": "Liban",
+"capital": "Bejrut",
+"population": { "value": 6100000, "year": 2023, "source": "World Bank" },
+"area": { "total": 10452, "land": 10452 },
+"flag": "https://flagcdn.com/w80/lb.png",
+"map": "https://www.google.com/maps/place/Liban"
+},
+{
+"iso2": "LS",
+"iso3": "LSO",
+"name": "Lesotho",
+"capital": "Maseru",
+"population": { "value": 2200000, "year": 2023, "source": "World Bank" },
+"area": { "total": 30355, "land": 30355 },
+"flag": "https://flagcdn.com/w80/ls.png",
+"map": "https://www.google.com/maps/place/Lesotho"
+},
+{
+"iso2": "LR",
+"iso3": "LBR",
+"name": "Liberia",
+"capital": "Monrovia",
+"population": { "value": 5200000, "year": 2023, "source": "World Bank" },
+"area": { "total": 111369, "land": 111369 },
+"flag": "https://flagcdn.com/w80/lr.png",
+"map": "https://www.google.com/maps/place/Liberia"
+},
+{
+"iso2": "LY",
+"iso3": "LBY",
+"name": "Libia",
+"capital": "Trypolis",
+"population": { "value": 7100000, "year": 2023, "source": "World Bank" },
+"area": { "total": 1759540, "land": 1759540 },
+"flag": "https://flagcdn.com/w80/ly.png",
+"map": "https://www.google.com/maps/place/Libia"
+},
+{
+"iso2": "LI",
+"iso3": "LIE",
+"name": "Liechtenstein",
+"capital": "Vaduz",
+"population": { "value": 40000, "year": 2023, "source": "World Bank" },
+"area": { "total": 160, "land": 160 },
+"flag": "https://flagcdn.com/w80/li.png",
+"map": "https://www.google.com/maps/place/Liechtenstein"
+},
+{
+"iso2": "LT",
+"iso3": "LTU",
+"name": "Litwa",
+"capital": "Wilno",
+"population": { "value": 2700000, "year": 2023, "source": "World Bank" },
+"area": { "total": 65300, "land": 62270 },
+"flag": "https://flagcdn.com/w80/lt.png",
+"map": "https://www.google.com/maps/place/Litwa"
+},
+{
+"iso2": "LU",
+"iso3": "LUX",
+"name": "Luksemburg",
+"capital": "Luksemburg",
+"population": { "value": 660000, "year": 2023, "source": "World Bank" },
+"area": { "total": 2586, "land": 2586 },
+"flag": "https://flagcdn.com/w80/lu.png",
+"map": "https://www.google.com/maps/place/Luksemburg"
+},
+{
+"iso2": "MG",
+"iso3": "MDG",
+"name": "Madagaskar",
+"capital": "Antananarywa",
+"population": { "value": 30000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 587041, "land": 587041 },
+"flag": "https://flagcdn.com/w80/mg.png",
+"map": "https://www.google.com/maps/place/Madagaskar"
+},
+{
+"iso2": "MY",
+"iso3": "MYS",
+"name": "Malezja",
+"capital": "Kuala Lumpur",
+"population": { "value": 33000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 330803, "land": 328550 },
+"flag": "https://flagcdn.com/w80/my.png",
+"map": "https://www.google.com/maps/place/Malezja"
+},
+{
+"iso2": "MV",
+"iso3": "MDV",
+"name": "Malediwy",
+"capital": "Malé",
+"population": { "value": 540000, "year": 2023, "source": "World Bank" },
+"area": { "total": 300, "land": 298 },
+"flag": "https://flagcdn.com/w80/mv.png",
+"map": "https://www.google.com/maps/place/Malediwy"
+},
+{
+"iso2": "ML",
+"iso3": "MLI",
+"name": "Mali",
+"capital": "Bamako",
+"population": { "value": 21000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 1240192, "land": 1240192 },
+"flag": "https://flagcdn.com/w80/ml.png",
+"map": "https://www.google.com/maps/place/Mali"
+},
+{
+"iso2": "MT",
+"iso3": "MLT",
+"name": "Malta",
+"capital": "Valletta",
+"population": { "value": 520000, "year": 2023, "source": "World Bank" },
+"area": { "total": 316, "land": 316 },
+"flag": "https://flagcdn.com/w80/mt.png",
+"map": "https://www.google.com/maps/place/Malta"
+},
+{
+"iso2": "MH",
+"iso3": "MHL",
+"name": "Wyspy Marshalla",
+"capital": "Majuro",
+"population": { "value": 59000, "year": 2023, "source": "World Bank" },
+"area": { "total": 181, "land": 181 },
+"flag": "https://flagcdn.com/w80/mh.png",
+"map": "https://www.google.com/maps/place/Wyspy+Marshalla"
+},
+{
+"iso2": "MQ",
+"iso3": "MTQ",
+"name": "Martynika",
+"capital": "Fort-de-France",
+"population": { "value": 375000, "year": 2023, "source": "World Bank" },
+"area": { "total": 1128, "land": 1128 },
+"flag": "https://flagcdn.com/w80/mq.png",
+"map": "https://www.google.com/maps/place/Martynika"
+},
+{
+"iso2": "MR",
+"iso3": "MRT",
+"name": "Mauretania",
+"capital": "Nouakchott",
+"population": { "value": 4600000, "year": 2023, "source": "World Bank" },
+"area": { "total": 1030700, "land": 1030700 },
+"flag": "https://flagcdn.com/w80/mr.png",
+"map": "https://www.google.com/maps/place/Mauretania"
+},
+{
+"iso2": "MU",
+"iso3": "MUS",
+"name": "Mauritius",
+"capital": "Port Louis",
+"population": { "value": 1270000, "year": 2023, "source": "World Bank" },
+"area": { "total": 2040, "land": 2040 },
+"flag": "https://flagcdn.com/w80/mu.png",
+"map": "https://www.google.com/maps/place/Mauritius"
+},
+{
+"iso2": "YT",
+"iso3": "MYT",
+"name": "Majotta",
+"capital": "Mamoudzou",
+"population": { "value": 270000, "year": 2023, "source": "World Bank" },
+"area": { "total": 374, "land": 374 },
+"flag": "https://flagcdn.com/w80/yt.png",
+"map": "https://www.google.com/maps/place/Majotta"
+},
+{
+"iso2": "MX",
+"iso3": "MEX",
+"name": "Meksyk",
+"capital": "Meksyk",
+"population": { "value": 126000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 1964375, "land": 1943950 },
+"flag": "https://flagcdn.com/w80/mx.png",
+"map": "https://www.google.com/maps/place/Meksyk"
+},
+{
+"iso2": "FM",
+"iso3": "FSM",
+"name": "Mikronezja",
+"capital": "Palikir",
+"population": { "value": 115000, "year": 2023, "source": "World Bank" },
+"area": { "total": 702, "land": 702 },
+"flag": "https://flagcdn.com/w80/fm.png",
+"map": "https://www.google.com/maps/place/Mikronezja"
+},
+{
+"iso2": "MD",
+"iso3": "MDA",
+"name": "Mołdawia",
+"capital": "Kiszyniów",
+"population": { "value": 2600000, "year": 2023, "source": "World Bank" },
+"area": { "total": 33843, "land": 33843 },
+"flag": "https://flagcdn.com/w80/md.png",
+"map": "https://www.google.com/maps/place/Mołdawia"
+},
+{
+"iso2": "MC",
+"iso3": "MCO",
+"name": "Monako",
+"capital": "Monako",
+"population": { "value": 39000, "year": 2023, "source": "World Bank" },
+"area": { "total": 2.02, "land": 2.02 },
+"flag": "https://flagcdn.com/w80/mc.png",
+"map": "https://www.google.com/maps/place/Monako"
+},
+{
+"iso2": "MN",
+"iso3": "MNG",
+"name": "Mongolia",
+"capital": "Ułan Bator",
+"population": { "value": 3400000, "year": 2023, "source": "World Bank" },
+"area": { "total": 1564110, "land": 1564110 },
+"flag": "https://flagcdn.com/w80/mn.png",
+"map": "https://www.google.com/maps/place/Mongolia"
+},
+{
+"iso2": "ME",
+"iso3": "MNE",
+"name": "Czarnogóra",
+"capital": "Podgorica",
+"population": { "value": 620000, "year": 2023, "source": "World Bank" },
+"area": { "total": 13812, "land": 13812 },
+"flag": "https://flagcdn.com/w80/me.png",
+"map": "https://www.google.com/maps/place/Czarnogóra"
+},
+{
+"iso2": "MA",
+"iso3": "MAR",
+"name": "Maroko",
+"capital": "Rabat",
+"population": { "value": 37000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 446550, "land": 446550 },
+"flag": "https://flagcdn.com/w80/ma.png",
+"map": "https://www.google.com/maps/place/Maroko"
+},
+{
+"iso2": "MZ",
+"iso3": "MOZ",
+"name": "Mozambik",
+"capital": "Maputo",
+"population": { "value": 32000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 801590, "land": 801590 },
+"flag": "https://flagcdn.com/w80/mz.png",
+"map": "https://www.google.com/maps/place/Mozambik"
+},
+{
+"iso2": "MM",
+"iso3": "MMR",
+"name": "Myanmar",
+"capital": "Naypyidaw",
+"population": { "value": 57000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 676578, "land": 676578 },
+"flag": "https://flagcdn.com/w80/mm.png",
+"map": "https://www.google.com/maps/place/Myanmar"
+},
+{
+"iso2": "NA",
+"iso3": "NAM",
+"name": "Namibia",
+"capital": "Windhuk",
+"population": { "value": 2600000, "year": 2023, "source": "World Bank" },
+"area": { "total": 825615, "land": 823290 },
+"flag": "https://flagcdn.com/w80/na.png",
+"map": "https://www.google.com/maps/place/Namibia"
+},
+{
+"iso2": "NR",
+"iso3": "NRU",
+"name": "Nauru",
+"capital": "Yaren",
+"population": { "value": 12000, "year": 2023, "source": "World Bank" },
+"area": { "total": 21, "land": 21 },
+"flag": "https://flagcdn.com/w80/nr.png",
+"map": "https://www.google.com/maps/place/Nauru"
+},
+{
+"iso2": "NP",
+"iso3": "NPL",
+"name": "Nepal",
+"capital": "Katmandu",
+"population": { "value": 30000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 147516, "land": 143351 },
+"flag": "https://flagcdn.com/w80/np.png",
+"map": "https://www.google.com/maps/place/Nepal"
+},
+{
+"iso2": "NL",
+"iso3": "NLD",
+"name": "Holandia",
+"capital": "Amsterdam",
+"population": { "value": 17500000, "year": 2023, "source": "World Bank" },
+"area": { "total": 41850, "land": 41543 },
+"flag": "https://flagcdn.com/w80/nl.png",
+"map": "https://www.google.com/maps/place/Holandia"
+},
+{
+"iso2": "NZ",
+"iso3": "NZL",
+"name": "Nowa Zelandia",
+"capital": "Wellington",
+"population": { "value": 5100000, "year": 2023, "source": "World Bank" },
+"area": { "total": 268838, "land": 268021 },
+"flag": "https://flagcdn.com/w80/nz.png",
+"map": "https://www.google.com/maps/place/Nowa+Zelandia"
+},
+{
+"iso2": "NI",
+"iso3": "NIC",
+"name": "Nikaragua",
+"capital": "Managua",
+"population": { "value": 6600000, "year": 2023, "source": "World Bank" },
+"area": { "total": 130373, "land": 129494 },
+"flag": "https://flagcdn.com/w80/ni.png",
+"map": "https://www.google.com/maps/place/Nikaragua"
+},
+{
+"iso2": "NE",
+"iso3": "NER",
+"name": "Niger",
+"capital": "Niamey",
+"population": { "value": 27000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 1267000, "land": 1267000 },
+"flag": "https://flagcdn.com/w80/ne.png",
+"map": "https://www.google.com/maps/place/Niger"
+},
+{
+"iso2": "NG",
+"iso3": "NGA",
+"name": "Nigeria",
+"capital": "Abudża",
+"population": { "value": 230000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 923768, "land": 910770 },
+"flag": "https://flagcdn.com/w80/ng.png",
+"map": "https://www.google.com/maps/place/Nigeria"
+},
+{
+"iso2": "NO",
+"iso3": "NOR",
+"name": "Norwegia",
+"capital": "Oslo",
+"population": { "value": 5600000, "year": 2023, "source": "World Bank" },
+"area": { "total": 385207, "land": 365268 },
+"flag": "https://flagcdn.com/w80/no.png",
+"map": "https://www.google.com/maps/place/Norwegia"
+},
+{
+"iso2": "OM",
+"iso3": "OMN",
+"name": "Oman",
+"capital": "Maskat",
+"population": { "value": 5100000, "year": 2023, "source": "World Bank" },
+"area": { "total": 309500, "land": 309500 },
+"flag": "https://flagcdn.com/w80/om.png",
+"map": "https://www.google.com/maps/place/Oman"
+},
+{
+"iso2": "PK",
+"iso3": "PAK",
+"name": "Pakistan",
+"capital": "Islamabad",
+"population": { "value": 240000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 881912, "land": 796095 },
+"flag": "https://flagcdn.com/w80/pk.png",
+"map": "https://www.google.com/maps/place/Pakistan"
+},
+{
+"iso2": "PW",
+"iso3": "PLW",
+"name": "Palau",
+"capital": "Ngerulmud",
+"population": { "value": 18000, "year": 2023, "source": "World Bank" },
+"area": { "total": 459, "land": 459 },
+"flag": "https://flagcdn.com/w80/pw.png",
+"map": "https://www.google.com/maps/place/Palau"
+},
+{
+"iso2": "PA",
+"iso3": "PAN",
+"name": "Panama",
+"capital": "Panama",
+"population": { "value": 4400000, "year": 2023, "source": "World Bank" },
+"area": { "total": 75417, "land": 74317 },
+"flag": "https://flagcdn.com/w80/pa.png",
+"map": "https://www.google.com/maps/place/Panama"
+},
+{
+"iso2": "PG",
+"iso3": "PNG",
+"name": "Papua-Nowa Gwinea",
+"capital": "Port Moresby",
+"population": { "value": 9300000, "year": 2023, "source": "World Bank" },
+"area": { "total": 462840, "land": 452860 },
+"flag": "https://flagcdn.com/w80/pg.png",
+"map": "https://www.google.com/maps/place/Papua-Nowa+Gwinea"
+},
+{
+"iso2": "PY",
+"iso3": "PRY",
+"name": "Paragwaj",
+"capital": "Asunción",
+"population": { "value": 7200000, "year": 2023, "source": "World Bank" },
+"area": { "total": 406752, "land": 397302 },
+"flag": "https://flagcdn.com/w80/py.png",
+"map": "https://www.google.com/maps/place/Paragwaj"
+},
+{
+"iso2": "PE",
+"iso3": "PER",
+"name": "Peru",
+"capital": "Lima",
+"population": { "value": 34000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 1285216, "land": 1280000 },
+"flag": "https://flagcdn.com/w80/pe.png",
+"map": "https://www.google.com/maps/place/Peru"
+},
+{
+"iso2": "PH",
+"iso3": "PHL",
+"name": "Filipiny",
+"capital": "Manila",
+"population": { "value": 113000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 300000, "land": 298170 },
+"flag": "https://flagcdn.com/w80/ph.png",
+"map": "https://www.google.com/maps/place/Filipiny"
+},
+{
+"iso2": "PL",
+"iso3": "POL",
+"name": "Polska",
+"capital": "Warszawa",
+"population": { "value": 37950000, "year": 2023, "source": "World Bank" },
+"area": { "total": 312679, "land": 312679 },
+"flag": "https://flagcdn.com/w80/pl.png",
+"map": "https://www.google.com/maps/place/Polska"
+},
+{
+"iso2": "PT",
+"iso3": "PRT",
+"name": "Portugalia",
+"capital": "Lizbona",
+"population": { "value": 10280000, "year": 2023, "source": "World Bank" },
+"area": { "total": 92212, "land": 91200 },
+"flag": "https://flagcdn.com/w80/pt.png",
+"map": "https://www.google.com/maps/place/Portugalia"
+},
+{
+"iso2": "PR",
+"iso3": "PRI",
+"name": "Portoryko",
+"capital": "San Juan",
+"population": { "value": 3200000, "year": 2023, "source": "World Bank" },
+"area": { "total": 9104, "land": 8871 },
+"flag": "https://flagcdn.com/w80/pr.png",
+"map": "https://www.google.com/maps/place/Portoryko"
+},
+{
+"iso2": "QA",
+"iso3": "QAT",
+"name": "Katar",
+"capital": "Ad-Dauha",
+"population": { "value": 2800000, "year": 2023, "source": "World Bank" },
+"area": { "total": 11586, "land": 11586 },
+"flag": "https://flagcdn.com/w80/qa.png",
+"map": "https://www.google.com/maps/place/Katar"
+},
+{
+"iso2": "RO",
+"iso3": "ROU",
+"name": "Rumunia",
+"capital": "Bukareszt",
+"population": { "value": 19500000, "year": 2023, "source": "World Bank" },
+"area": { "total": 238397, "land": 238397 },
+"flag": "https://flagcdn.com/w80/ro.png",
+"map": "https://www.google.com/maps/place/Rumunia"
+},
+{
+"iso2": "RU",
+"iso3": "RUS",
+"name": "Rosja",
+"capital": "Moskwa",
+"population": { "value": 144000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 17098242, "land": 16376870 },
+"flag": "https://flagcdn.com/w80/ru.png",
+"map": "https://www.google.com/maps/place/Rosja"
+},
+{
+"iso2": "RW",
+"iso3": "RWA",
+"name": "Rwanda",
+"capital": "Kigali",
+"population": { "value": 13000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 26338, "land": 26338 },
+"flag": "https://flagcdn.com/w80/rw.png",
+"map": "https://www.google.com/maps/place/Rwanda"
+},
+{
+"iso2": "KN",
+"iso3": "KNA",
+"name": "Saint Kitts i Nevis",
+"capital": "Basseterre",
+"population": { "value": 53000, "year": 2023, "source": "World Bank" },
+"area": { "total": 261, "land": 261 },
+"flag": "https://flagcdn.com/w80/kn.png",
+"map": "https://www.google.com/maps/place/Saint+Kitts+i+Nevis"
+},
+{
+"iso2": "LC",
+"iso3": "LCA",
+"name": "Saint Lucia",
+"capital": "Castries",
+"population": { "value": 180000, "year": 2023, "source": "World Bank" },
+"area": { "total": 616, "land": 616 },
+"flag": "https://flagcdn.com/w80/lc.png",
+"map": "https://www.google.com/maps/place/Saint+Lucia"
+},
+{
+"iso2": "VC",
+"iso3": "VCT",
+"name": "Saint Vincent i Grenadyny",
+"capital": "Kingstown",
+"population": { "value": 110000, "year": 2023, "source": "World Bank" },
+"area": { "total": 389, "land": 389 },
+"flag": "https://flagcdn.com/w80/vc.png",
+"map": "https://www.google.com/maps/place/Saint+Vincent+i+Grenadyny"
+},
+{
+"iso2": "WS",
+"iso3": "WSM",
+"name": "Samoa",
+"capital": "Apia",
+"population": { "value": 200000, "year": 2023, "source": "World Bank" },
+"area": { "total": 2842, "land": 2842 },
+"flag": "https://flagcdn.com/w80/ws.png",
+"map": "https://www.google.com/maps/place/Samoa"
+},
+{
+"iso2": "SM",
+"iso3": "SMR",
+"name": "San Marino",
+"capital": "San Marino",
+"population": { "value": 34000, "year": 2023, "source": "World Bank" },
+"area": { "total": 61, "land": 61 },
+"flag": "https://flagcdn.com/w80/sm.png",
+"map": "https://www.google.com/maps/place/San+Marino"
+},
+{
+"iso2": "ST",
+"iso3": "STP",
+"name": "Wyspy Świętego Tomasza i Książęca",
+"capital": "São Tomé",
+"population": { "value": 220000, "year": 2023, "source": "World Bank" },
+"area": { "total": 964, "land": 964 },
+"flag": "https://flagcdn.com/w80/st.png",
+"map": "https://www.google.com/maps/place/Wyspy+Świętego+Tomasza+i+Książęca"
+},
+{
+"iso2": "SA",
+"iso3": "SAU",
+"name": "Arabia Saudyjska",
+"capital": "Rijad",
+"population": { "value": 35500000, "year": 2023, "source": "World Bank" },
+"area": { "total": 2149690, "land": 2149690 },
+"flag": "https://flagcdn.com/w80/sa.png",
+"map": "https://www.google.com/maps/place/Arabia+Saudyjska"
+},
+{
+"iso2": "SN",
+"iso3": "SEN",
+"name": "Senegal",
+"capital": "Dakar",
+"population": { "value": 18000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 196722, "land": 196722 },
+"flag": "https://flagcdn.com/w80/sn.png",
+"map": "https://www.google.com/maps/place/Senegal"
+},
+{
+"iso2": "RS",
+"iso3": "SRB",
+"name": "Serbia",
+"capital": "Belgrad",
+"population": { "value": 6900000, "year": 2023, "source": "World Bank" },
+"area": { "total": 88361, "land": 88361 },
+"flag": "https://flagcdn.com/w80/rs.png",
+"map": "https://www.google.com/maps/place/Serbia"
+},
+{
+"iso2": "SC",
+"iso3": "SYC",
+"name": "Seszele",
+"capital": "Victoria",
+"population": { "value": 98000, "year": 2023, "source": "World Bank" },
+"area": { "total": 452, "land": 452 },
+"flag": "https://flagcdn.com/w80/sc.png",
+"map": "https://www.google.com/maps/place/Seszele"
+},
+{
+"iso2": "SL",
+"iso3": "SLE",
+"name": "Sierra Leone",
+"capital": "Freetown",
+"population": { "value": 8000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 71740, "land": 71740 },
+"flag": "https://flagcdn.com/w80/sl.png",
+"map": "https://www.google.com/maps/place/Sierra+Leone"
+},
+{
+"iso2": "SG",
+"iso3": "SGP",
+"name": "Singapur",
+"capital": "Singapur",
+"population": { "value": 5600000, "year": 2023, "source": "World Bank" },
+"area": { "total": 719, "land": 719 },
+"flag": "https://flagcdn.com/w80/sg.png",
+"map": "https://www.google.com/maps/place/Singapur"
+},
+{
+"iso2": "SK",
+"iso3": "SVK",
+"name": "Słowacja",
+"capital": "Bratysława",
+"population": { "value": 5400000, "year": 2023, "source": "World Bank" },
+"area": { "total": 49035, "land": 49035 },
+"flag": "https://flagcdn.com/w80/sk.png",
+"map": "https://www.google.com/maps/place/Słowacja"
+},
+{
+"iso2": "SI",
+"iso3": "SVN",
+"name": "Słowenia",
+"capital": "Lublana",
+"population": { "value": 2100000, "year": 2023, "source": "World Bank" },
+"area": { "total": 20273, "land": 20273 },
+"flag": "https://flagcdn.com/w80/si.png",
+"map": "https://www.google.com/maps/place/Słowenia"
+},
+{
+"iso2": "SB",
+"iso3": "SLB",
+"name": "Wyspy Salomona",
+"capital": "Honiara",
+"population": { "value": 700000, "year": 2023, "source": "World Bank" },
+"area": { "total": 28896, "land": 28896 },
+"flag": "https://flagcdn.com/w80/sb.png",
+"map": "https://www.google.com/maps/place/Wyspy+Salomona"
+},
+{
+"iso2": "SO",
+"iso3": "SOM",
+"name": "Somalia",
+"capital": "Mogadiszu",
+"population": { "value": 16000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 637657, "land": 637657 },
+"flag": "https://flagcdn.com/w80/so.png",
+"map": "https://www.google.com/maps/place/Somalia"
+},
+{
+"iso2": "ZA",
+"iso3": "ZAF",
+"name": "Republika Południowej Afryki",
+"capital": "Pretoria",
+"population": { "value": 60000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 1219090, "land": 1213090 },
+"flag": "https://flagcdn.com/w80/za.png",
+"map": "https://www.google.com/maps/place/Republika+Południowej+Afryki"
+},
+{
+"iso2": "SS",
+"iso3": "SSD",
+"name": "Sudan Południowy",
+"capital": "Dżuba",
+"population": { "value": 13000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 619745, "land": 619745 },
+"flag": "https://flagcdn.com/w80/ss.png",
+"map": "https://www.google.com/maps/place/Sudan+Południowy"
+},
+{
+"iso2": "ES",
+"iso3": "ESP",
+"name": "Hiszpania",
+"capital": "Madryt",
+"population": { "value": 47350000, "year": 2023, "source": "World Bank" },
+"area": { "total": 505990, "land": 498800 },
+"flag": "https://flagcdn.com/w80/es.png",
+"map": "https://www.google.com/maps/place/Hiszpania"
+},
+{
+"iso2": "LK",
+"iso3": "LKA",
+"name": "Sri Lanka",
+"capital": "Sri Dźajawardanapura Kotte",
+"population": { "value": 22000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 65610, "land": 65610 },
+"flag": "https://flagcdn.com/w80/lk.png",
+"map": "https://www.google.com/maps/place/Sri+Lanka"
+},
+{
+"iso2": "SD",
+"iso3": "SDN",
+"name": "Sudan",
+"capital": "Chartum",
+"population": { "value": 45000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 1861484, "land": 1861484 },
+"flag": "https://flagcdn.com/w80/sd.png",
+"map": "https://www.google.com/maps/place/Sudan"
+},
+{
+"iso2": "SR",
+"iso3": "SUR",
+"name": "Surinam",
+"capital": "Paramaribo",
+"population": { "value": 600000, "year": 2023, "source": "World Bank" },
+"area": { "total": 163820, "land": 156000 },
+"flag": "https://flagcdn.com/w80/sr.png",
+"map": "https://www.google.com/maps/place/Surinam"
+},
+{
+"iso2": "SZ",
+"iso3": "SWZ",
+"name": "Eswatini",
+"capital": "Mbabane",
+"population": { "value": 1200000, "year": 2023, "source": "World Bank" },
+"area": { "total": 17364, "land": 17364 },
+"flag": "https://flagcdn.com/w80/sz.png",
+"map": "https://www.google.com/maps/place/Eswatini"
+},
+{
+"iso2": "SE",
+"iso3": "SWE",
+"name": "Szwecja",
+"capital": "Sztokholm",
+"population": { "value": 10300000, "year": 2023, "source": "World Bank" },
+"area": { "total": 450295, "land": 410335 },
+"flag": "https://flagcdn.com/w80/se.png",
+"map": "https://www.google.com/maps/place/Szwecja"
+},
+{
+"iso2": "CH",
+"iso3": "CHE",
+"name": "Szwajcaria",
+"capital": "Berno",
+"population": { "value": 8700000, "year": 2023, "source": "World Bank" },
+"area": { "total": 41285, "land": 39768 },
+"flag": "https://flagcdn.com/w80/ch.png",
+"map": "https://www.google.com/maps/place/Szwajcaria"
+},
+{
+"iso2": "SY",
+"iso3": "SYR",
+"name": "Syria",
+"capital": "Damaszek",
+"population": { "value": 18000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 185180, "land": 185180 },
+"flag": "https://flagcdn.com/w80/sy.png",
+"map": "https://www.google.com/maps/place/Syria"
+},
+{
+"iso2": "TJ",
+"iso3": "TJK",
+"name": "Tadżykistan",
+"capital": "Duszanbe",
+"population": { "value": 10000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 143100, "land": 143100 },
+"flag": "https://flagcdn.com/w80/tj.png",
+"map": "https://www.google.com/maps/place/Tadżykistan"
+},
+{
+"iso2": "TZ",
+"iso3": "TZA",
+"name": "Tanzania",
+"capital": "Dodoma",
+"population": { "value": 65000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 945087, "land": 885800 },
+"flag": "https://flagcdn.com/w80/tz.png",
+"map": "https://www.google.com/maps/place/Tanzania"
+},
+{
+"iso2": "TH",
+"iso3": "THA",
+"name": "Tajlandia",
+"capital": "Bangkok",
+"population": { "value": 70000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 513120, "land": 511725 },
+"flag": "https://flagcdn.com/w80/th.png",
+"map": "https://www.google.com/maps/place/Tajlandia"
+},
+{
+"iso2": "TL",
+"iso3": "TLS",
+"name": "Timor Wschodni",
+"capital": "Dili",
+"population": { "value": 1300000, "year": 2023, "source": "World Bank" },
+"area": { "total": 14874, "land": 14874 },
+"flag": "https://flagcdn.com/w80/tl.png",
+"map": "https://www.google.com/maps/place/Timor+Wschodni"
+},
+{
+"iso2": "TG",
+"iso3": "TGO",
+"name": "Togo",
+"capital": "Lomé",
+"population": { "value": 9000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 56785, "land": 56785 },
+"flag": "https://flagcdn.com/w80/tg.png",
+"map": "https://www.google.com/maps/place/Togo"
+},
+{
+"iso2": "TO",
+"iso3": "TON",
+"name": "Tonga",
+"capital": "Nukuʻalofa",
+"population": { "value": 105000, "year": 2023, "source": "World Bank" },
+"area": { "total": 747, "land": 747 },
+"flag": "https://flagcdn.com/w80/to.png",
+"map": "https://www.google.com/maps/place/Tonga"
+},
+{
+"iso2": "TT",
+"iso3": "TTO",
+"name": "Trynidad i Tobago",
+"capital": "Port-of-Spain",
+"population": { "value": 1400000, "year": 2023, "source": "World Bank" },
+"area": { "total": 5130, "land": 5128 },
+"flag": "https://flagcdn.com/w80/tt.png",
+"map": "https://www.google.com/maps/place/Trynidad+i+Tobago"
+},
+{
+"iso2": "TN",
+"iso3": "TUN",
+"name": "Tunezja",
+"capital": "Tunis",
+"population": { "value": 12000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 163610, "land": 155360 },
+"flag": "https://flagcdn.com/w80/tn.png",
+"map": "https://www.google.com/maps/place/Tunezja"
+},
+{
+"iso2": "TR",
+"iso3": "TUR",
+"name": "Turcja",
+"capital": "Ankara",
+"population": { "value": 85000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 783356, "land": 769631 },
+"flag": "https://flagcdn.com/w80/tr.png",
+"map": "https://www.google.com/maps/place/Turcja"
+},
+{
+"iso2": "TM",
+"iso3": "TKM",
+"name": "Turkmenistan",
+"capital": "Aszchabad",
+"population": { "value": 6200000, "year": 2023, "source": "World Bank" },
+"area": { "total": 488100, "land": 469930 },
+"flag": "https://flagcdn.com/w80/tm.png",
+"map": "https://www.google.com/maps/place/Turkmenistan"
+},
+{
+"iso2": "TV",
+"iso3": "TUV",
+"name": "Tuvalu",
+"capital": "Funafuti",
+"population": { "value": 11000, "year": 2023, "source": "World Bank" },
+"area": { "total": 26, "land": 26 },
+"flag": "https://flagcdn.com/w80/tv.png",
+"map": "https://www.google.com/maps/place/Tuvalu"
+},
+{
+"iso2": "UG",
+"iso3": "UGA",
+"name": "Uganda",
+"capital": "Kampala",
+"population": { "value": 46000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 241038, "land": 197100 },
+"flag": "https://flagcdn.com/w80/ug.png",
+"map": "https://www.google.com/maps/place/Uganda"
+},
+{
+"iso2": "UA",
+"iso3": "UKR",
+"name": "Ukraina",
+"capital": "Kijów",
+"population": { "value": 37000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 603628, "land": 579320 },
+"flag": "https://flagcdn.com/w80/ua.png",
+"map": "https://www.google.com/maps/place/Ukraina"
+},
+{
+"iso2": "AE",
+"iso3": "ARE",
+"name": "Zjednoczone Emiraty Arabskie",
+"capital": "Abu Zabi",
+"population": { "value": 9800000, "year": 2023, "source": "World Bank" },
+"area": { "total": 83600, "land": 83600 },
+"flag": "https://flagcdn.com/w80/ae.png",
+"map": "https://www.google.com/maps/place/Zjednoczone+Emiraty+Arabskie"
+},
+{
+"iso2": "GB",
+"iso3": "GBR",
+"name": "Wielka Brytania",
+"capital": "Londyn",
+"population": { "value": 67000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 243610, "land": 242495 },
+"flag": "https://flagcdn.com/w80/gb.png",
+"map": "https://www.google.com/maps/place/Wielka+Brytania"
+},
+{
+"iso2": "US",
+"iso3": "USA",
+"name": "Stany Zjednoczone",
+"capital": "Waszyngton",
+"population": { "value": 335000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 9833517, "land": 9147420 },
+"flag": "https://flagcdn.com/w80/us.png",
+"map": "https://www.google.com/maps/place/Stany+Zjednoczone"
+},
+{
+"iso2": "UY",
+"iso3": "URY",
+"name": "Urugwaj",
+"capital": "Montavideo",
+"population": { "value": 3500000, "year": 2023, "source": "World Bank" },
+"area": { "total": 176215, "land": 176215 },
+"flag": "https://flagcdn.com/w80/uy.png",
+"map": "https://www.google.com/maps/place/Urugwaj"
+},
+{
+"iso2": "UZ",
+"iso3": "UZB",
+"name": "Uzbekistan",
+"capital": "Taszkent",
+"population": { "value": 35000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 448978, "land": 425400 },
+"flag": "https://flagcdn.com/w80/uz.png",
+"map": "https://www.google.com/maps/place/Uzbekistan"
+},
+{
+"iso2": "VU",
+"iso3": "VUT",
+"name": "Vanuatu",
+"capital": "Port Vila",
+"population": { "value": 310000, "year": 2023, "source": "World Bank" },
+"area": { "total": 12189, "land": 12189 },
+"flag": "https://flagcdn.com/w80/vu.png",
+"map": "https://www.google.com/maps/place/Vanuatu"
+},
+{
+"iso2": "VE",
+"iso3": "VEN",
+"name": "Wenezuela",
+"capital": "Caracas",
+"population": { "value": 28500000, "year": 2023, "source": "World Bank" },
+"area": { "total": 916445, "land": 882050 },
+"flag": "https://flagcdn.com/w80/ve.png",
+"map": "https://www.google.com/maps/place/Wenezuela"
+},
+{
+"iso2": "VN",
+"iso3": "VNM",
+"name": "Wietnam",
+"capital": "Hanoi",
+"population": { "value": 100000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 331212, "land": 310070 },
+"flag": "https://flagcdn.com/w80/vn.png",
+"map": "https://www.google.com/maps/place/Wietnam"
+},
+{
+"iso2": "YE",
+"iso3": "YEM",
+"name": "Jemen",
+"capital": "Sana",
+"population": { "value": 30000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 527968, "land": 527968 },
+"flag": "https://flagcdn.com/w80/ye.png",
+"map": "https://www.google.com/maps/place/Jemen"
+},
+{
+"iso2": "ZM",
+"iso3": "ZMB",
+"name": "Zambia",
+"capital": "Lusaka",
+"population": { "value": 19000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 752618, "land": 741610 },
+"flag": "https://flagcdn.com/w80/zm.png",
+"map": "https://www.google.com/maps/place/Zambia"
+},
+{
+"iso2": "ZW",
+"iso3": "ZWE",
+"name": "Zimbabwe",
+"capital": "Harare",
+"population": { "value": 16000000, "year": 2023, "source": "World Bank" },
+"area": { "total": 390757, "land": 386847 },
+"flag": "https://flagcdn.com/w80/zw.png",
+"map": "https://www.google.com/maps/place/Zimbabwe"
+}
+]

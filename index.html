@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Państwa świata</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 1rem;
+      background: #f9f9f9;
+    }
+    h1 {
+      text-align: center;
+    }
+    input {
+      width: 100%;
+      padding: 0.5rem;
+      margin-bottom: 1rem;
+      font-size: 1rem;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 2rem;
+    }
+    th, td {
+      padding: 0.5rem;
+      border: 1px solid #ccc;
+      text-align: left;
+      font-size: 0.9rem;
+    }
+    th {
+      background-color: #eee;
+      cursor: pointer;
+    }
+    img {
+      height: 20px;
+    }
+    .small {
+      font-size: 0.75rem;
+      color: #666;
+    }
+  </style>
+  <link rel="manifest" href="manifest.json">
+</head>
+<body>
+  <h1>🌍 Państwa świata</h1>
+  <input type="text" id="search" placeholder="Szukaj państwa lub stolicy..." />
+
+  <table id="countryTable">
+    <thead>
+      <tr>
+        <th>Flaga</th>
+        <th data-sort="name">Państwo</th>
+        <th data-sort="capital">Stolica</th>
+        <th data-sort="population">Ludność</th>
+        <th data-sort="area">Pow. całk. (km²)</th>
+        <th data-sort="land">Ląd (km²)</th>
+        <th data-sort="density">Gęstość</th>
+        <th>Mapa</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script src="main.js"></script>
+<script>
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('sw.js');
+}
+</script>
+</body>
+</html>
